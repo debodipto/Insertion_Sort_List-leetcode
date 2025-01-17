@@ -1,4 +1,3 @@
-
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head is None or head.next is None:
